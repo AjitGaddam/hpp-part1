@@ -1,0 +1,15 @@
+name: hpp-part1
+channels:
+  - conda-forge
+dependencies:
+  - python=3.7
+  - jupyterlab
+  - numba
+  - numpy
+  - pip
+  - pandas
+  - pyarrow
+  - matplotlib
+  - h5py
+  - pytables
+  - scipy
